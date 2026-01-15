@@ -61,5 +61,23 @@ Each day, I practice one core Python topic and upload the related **Jupyter Note
 
 ---
 
-## 📂 Folder Structure
+## 🛠 Tools Used
+
+- Python 🐍
+- Jupyter Notebook
+- VS Code
+- Git & GitHub
+
+---
+
+## 🎯 Outcome
+
+- Strong Core Python foundation
+- Daily GitHub contribution streak
+- Ready for interviews & real-world projects
+
+---
+
+⭐ If you like this repository, please give it a **star**!
+
 
